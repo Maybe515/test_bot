@@ -2,7 +2,7 @@
 TOKEN = ''
 
 # ID
-ID_guild = '785866375058685962'
+ID_guild = ''
 
 # Import Libralies
 import discord
